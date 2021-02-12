@@ -1,0 +1,56 @@
+body {
+  background-color: rgb(238, 241, 23);
+}
+h1 {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+#square {
+  font-size: 12vh;
+  position: absolute;
+  height: 65vh;
+  width: 10vw;
+  top: 20vh;
+  left: 40vw;
+  background-color: black;
+  line-height: 35vh;
+  border-radius: 10%;
+  border: #ffff00;
+}
+
+#one {
+  position: absolute;
+  height: 15vh;
+  width: 8vw;
+  top: 25vh;
+  left: 41vw;
+  border-radius: 50%;
+  background-color: #656565;
+  border-radius: 50%;
+  border: #ffff00;
+  z-index: 1;
+}
+#two {
+  position: absolute;
+  height: 15vh;
+  width: 8vw;
+  top: 45vh;
+  left: 41vw;
+  border-radius: 50%;
+  background-color: #656565;
+  border-radius: 50%;
+  border: #ffff00;
+  z-index: 1;
+}
+#three {
+  position: absolute;
+  height: 15vh;
+  width: 8vw;
+  top: 65vh;
+  left: 41vw;
+  border-radius: 50%;
+  background-color: #656565;
+  border-radius: 50%;
+  border: #ffff00;
+  z-index: 1;
+}
